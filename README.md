@@ -27,13 +27,13 @@ Python, Pandas, Plotly, Jupyter Notebook
 ## Charts
 
 ### UK Petrol & Diesel Pump Prices 2021-2026
-![Fuel Prices](chart1_fuel_prices.png)
+<img src="chart1_fuel_prices.png" width="800"/>
 
 ### UK Car Registrations by Fuel Type 2021-2025
-![Car Registrations](car_registrations.png)
+<img src="car_registrations.png" width="800"/>
 
 ### UK Fuel Prices vs Car Registrations
-![Fuel Prices vs Registrations](chart1_fuel_prices_vs_car_registrations.png)
+<img src="chart1_fuel_prices_vs_car_registrations.png" width="800"/>
 
 ### UK Fuel Prices vs Total Private Licensed Cars
-![Private Licensed Cars](chart1_fuel_prices_vs_private_licensed_cars.png)
+<img src="chart1_fuel_prices_vs_private_licensed_cars.png" width="800"/>
